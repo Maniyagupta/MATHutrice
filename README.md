@@ -147,3 +147,7 @@ python scripts/check_cycles.py
 ## Licence
 
 MIT — see [`LICENSE`](LICENSE).
+
+
+Design Document: https://github.com/EPF-MDE/MATHutrice/issues/77
+

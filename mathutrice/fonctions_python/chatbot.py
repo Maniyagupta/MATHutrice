@@ -1,3 +1,4 @@
+from mathutrice.lacune_evaluation.LLM_as_Evaluator import _build_flat_competences  # deliberate violation
 from mathutrice.llm_client import client, MODEL
 
 system_prompt = """Tu es MATHutrice, une tutrice IA specialisee en mathematiques.
